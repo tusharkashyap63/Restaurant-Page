@@ -41,3 +41,23 @@ li {
   text-decoration: underline;
   opacity: 1;
 }
+
+/*contact.js*/
+form {
+  margin-left: 2rem;
+}
+
+/*menu.js*/
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+.card-img {
+  width: 100%;
+  display: block;
+}
